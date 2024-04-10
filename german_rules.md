@@ -77,25 +77,26 @@
 
     - **Example**: "I remember" is just "Ich erinnere mich" (I remember myself).
     - **Explanation**:
+
       - Imagine you're looking in a mirror and whatever you do, your reflection does too. That's like a reflexive verb – the action you do reflects back to you.
       - In German, sometimes a verb is like looking in this mirror, even when in English it's not. For example, in English, we say "I remember." But in German, it's like saying "I remember myself," because "remember" acts like it's in a mirror.
       - **Example:** "Ich erinnere mich" literally means "I remember myself," but we just say "I remember" in English.
 
-- ### Accusative and Dative in Reflexive Verbs
+      - **Accusative and Dative in Reflexive Verbs**:
 
-      - **Accusative Case (Direct Action)**: When the action of the verb directly affects the person doing it.
-        - **Example 1**: "Ich wasche mich" (I wash myself). Here, 'mich' (myself) is directly receiving the action of washing.
-        - **Example 2**: "Ich rasiere mich" (I shave myself). 'Mich' (myself) directly receives the action of shaving.
-      - **Dative Case (Indirect Action)**: When the action is more indirect, or not affecting the person directly.
+        - **Accusative Case (Direct Action)**: When the action of the verb directly affects the person doing it.
+          - **Example 1**: "Ich wasche mich" (I wash myself). Here, 'mich' (myself) is directly receiving the action of washing.
+          - **Example 2**: "Ich rasiere mich" (I shave myself). 'Mich' (myself) directly receives the action of shaving.
+        - **Dative Case (Indirect Action)**: When the action is more indirect, or not affecting the person directly.
 
-        - **Example 1**: "Ich sehe mir einen Film an" (I am watching a movie). Here, 'mir' (to myself) is used because the action of watching is more of an indirect experience.
-        - **Example 2**: "Ich mache mir Sorgen" (I worry about myself). In this case, 'mir' (to myself) indicates an indirect action of worrying.
+          - **Example 1**: "Ich sehe mir einen Film an" (I am watching a movie). Here, 'mir' (to myself) is used because the action of watching is more of an indirect experience.
+          - **Example 2**: "Ich mache mir Sorgen" (I worry about myself). In this case, 'mir' (to myself) indicates an indirect action of worrying.
 
-      - In simple terms, when the action is something you do directly to yourself, like washing or shaving, you use the accusative case. But, when the action is more about an internal or indirect experience, like watching a movie or worrying, you use the dative case. The key is understanding whether the action is direct or indirect to you.
+        - In simple terms, when the action is something you do directly to yourself, like washing or shaving, you use the accusative case. But, when the action is more about an internal or indirect experience, like watching a movie or worrying, you use the dative case. The key is understanding whether the action is direct or indirect to you.
 
 ---
 
 11. **'Haben' and 'Sein' in Perfect Tense**: Used to form most past tense sentences.
 
-- **Example**: "I have eaten" → "Ich habe gegessen"; "I have gone" → "Ich bin gegangen".
-- **Explanation**: 'Haben' and 'sein' are helpers for forming past tense.
+    - **Example**: "I have eaten" → "Ich habe gegessen"; "I have gone" → "Ich bin gegangen".
+    - **Explanation**: 'Haben' and 'sein' are helpers for forming past tense.
